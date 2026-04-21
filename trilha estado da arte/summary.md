@@ -332,4 +332,4 @@
 5. Reinforcement Learning: An Introduction - Richard S. Sutton, Andrew G. Barto
 6. Hands-On Reinforcement Learning with Python - Sudharsan Ravichandiran
 7. Hansds-on unsupervised learning with Python - Willi Richert, Lewis Tunstall
-8. 
+8. hands on large language models - kenton miles, toshiaki koike-orth, 
