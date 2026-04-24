@@ -254,8 +254,7 @@
     5. A2A
     6. Fine-tuning para agentes
     7. Prompt Engineering para agentes
-    8. 
-
+    
 10. Aplicações
     1. Visão Computacional
         1. Data Augmentation
@@ -318,11 +317,7 @@
     13. Ferramentas de compliance
     14. Ferramentas de auditoria
     15. Ferramentas de monitoramento
-    16. Ferramentas de teste
-    17. Ferramentas de segurança
-    18. Ferramentas de governança
-    19. Ferramentas de compliance
-    20. Ferramentas de auditoria  
+
 
 ## referências prindipais
 1.  Hands-On Machine Learning with Scikit Learn and PyTorch - Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron
